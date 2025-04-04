@@ -1,15 +1,32 @@
-<h1 align="center">Hi 👋, I'm kfozla</h1>
-<h3 align="center">Full-Stack Web Developer</h3>
+# Hi there, I'm Yusuf Eren Gökdağ! 👋
 
-- 🌱 I’m currently learning **asp.net**
+[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=social)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat)](YOUR_PORTFOLIO_LINK)
 
-- 💬 Ask me about **spring, .net, react**
+## 🚀 About Me
+🎓 3rd-year Computer Engineering student specialized in Full-Stack Web Development & Game Development. Passionate about building scalable applications and exploring new technologies.
 
-- 📫 How to reach me **yusufgokdag0726@gmail.com**
+💻 **Tech Stack:**
+- **Backend:** Spring Boot, .NET, Node.js  
+- **Frontend:** React, TypeScript, Tailwind CSS  
+- **Game Development:** Unity (C#)  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Other:** Docker, Kubernetes, CI/CD, REST APIs  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🔧 Projects
+🚀 [**Project 1**](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_1) - Brief description  
+🎮 [**Project 2**](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_2) - Brief description  
+🌍 [**Project 3**](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_3) - Brief description  
+
+## 📫 Get in Touch
+📧 Email: [your.email@example.com](mailto:your.email@example.com)  
+🔗 LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/YOUR_LINKEDIN)  
+🌐 Portfolio: [YOUR_PORTFOLIO_LINK](YOUR_PORTFOLIO_LINK)
+
+---
+
+_⭐️ Feel free to explore my repositories and contribute to any projects that interest you!_
