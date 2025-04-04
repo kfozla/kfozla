@@ -14,7 +14,7 @@
 
 ## 📫 Get in Touch
 📧 Email: [yusufgokdag0726@gmail.com](mailto:yusufgokdag0726@gmail.com)  
-🔗 LinkedIn: [https://www.linkedin.com/in/yusuf-g%C3%B6kda%C4%9F/](https://www.linkedin.com/in/yusuf-g%C3%B6kda%C4%9F/)  
+🔗 LinkedIn: [Yusuf Eren Gökdağ](https://www.linkedin.com/in/yusuf-g%C3%B6kda%C4%9F/)  
 
 ---
 
